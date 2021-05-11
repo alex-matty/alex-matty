@@ -8,4 +8,4 @@ If you have a comment, question or anything you want to say to me, feel free to 
 
 <h2>You can find me at:</h2>
 <a href="https://twitter.com/meganuke_">Twitter</a>
-<a href="https://alexmatty.dyndns.org/">Website</a>
+<a href="https://alexmatty.com/">Website</a>
