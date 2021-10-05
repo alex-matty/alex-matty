@@ -17,7 +17,7 @@ If you have a question, comment, or if you just want to chat, feel free to conta
 
 ![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VS_Code-lightgrey?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Editor-VS_Code-lightgrey?style=for-the-badge&logo=sublime-text&logoColor=white)
+![](https://img.shields.io/badge/Editor-Sublime-lightgrey?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-lightgrey?style=for-the-badge&logo=python&logoColor=white)
 
 ## I also make music
