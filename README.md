@@ -1,11 +1,25 @@
-Hi, I’m @alex-matty (A.K.A. Meganuke)
+<div align="center">
 
-I'm a Cyber security enthusiast with a passion for learning. I'm currently really insterested in BASH, but I also love to get my hands dirty and play with everything I can get my hands into. A little bit of python, TryHackMe, Linux, servers. You name it.
+# Hi everybody, MEGANUKE here! </h1>
 
-The files you can find here are written in Bash or Python. Don't know why but I find bash extremely attractive. I am enjoying studying, learning and practicing it.
+<img src="https://media.giphy.com/media/26xBFB9pA6Rjv2s7u/giphy.gif" width="200px">
 
-If you have a comment, question or anything you want to say to me, feel free to reach out to me.
+[![](https://img.shields.io/badge/Follow-Twitter-lightgrey?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meganuke_)
+[![](https://img.shields.io/badge/Visit-Website-lightgrey?style=for-the-badge&logoColor=white)](https://www.alexmatty.com)
 
-<h2>You can find me at:</h2>
-<a href="https://twitter.com/meganuke_">Twitter</a>
-<a href="https://alexmatty.com/">Website</a>
+I'm a Cyber security enthusiast with a passion for learning. I'm currently really interested in Bash and Python as scripting languages. But I also love to get my hands dirty and play with everything I can get my hands into. At the moment I'm also really engaged with reverse engineering and finally starting spending some time Bug Bounty Hunting. 
+
+The files you can find here are written in Bash or Python. Which usually are ideas that come to me after getting into a challenge or situation in which I feel the need to automate a little process or replicate a certain tool that I commonly use (Which I find really interesting as both learning process and a fun time!)
+
+If you have a question, comment, or if you just want to chat, feel free to contact me! I'll be happy to learn and grow along with the community.
+
+## Technologies I like to use
+
+![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Editor-VS_Code-lightgrey?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Editor-VS_Code-lightgrey?style=for-the-badge&logo=sublime-text&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-lightgrey?style=for-the-badge&logo=python&logoColor=white)
+
+## I also make music
+
+[![](https://img.shields.io/badge/Music-Soundcloud-lightgrey?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://soundcloud.com/alexmattymusic)
