@@ -1,27 +1,145 @@
-<div align="center">
+# Hi, I'm Alejandro Matty 👋
 
-# Hi everybody, MEGANUKE here! </h1>
+Security Analyst focused on **Detection Engineering, Security Operations, SIEM Management, and Security Tooling**.
 
-<img src="https://media.giphy.com/media/26xBFB9pA6Rjv2s7u/giphy.gif" width="200px">
+I currently work in a security operations environment supporting an organization, where I help improve security visibility, develop detections, investigate security events, implement security technologies, and coordinate incident response activities.
 
-[![](https://img.shields.io/badge/Follow-Twitter-lightgrey?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meganuke_)
+My work spans detection engineering, security monitoring, incident response, vendor security assessments, security tool implementation, and infrastructure as code.
 
-I'm a cybersecurity enthusiast with a passion for learning. Currently, I'm really interested in Bash, Python, and Ruby as scripting languages, but I love to get my hands dirty. The more you learn, the better you'll become!
+I enjoy solving complex technical problems, improving security operations, and continuously expanding my knowledge across cybersecurity and technology.
 
-Right now, I'm also deeply engaged in reverse engineering and have started spending some time on bug bounty hunting. You might find some simple scripts here to help with bug bounties.
+My long-term goal is to continue growing toward Security Engineering while maintaining a strong hands-on technical foundation.
 
-The files you can find here are written in Bash, Python, or Ruby, but I'm also eager to dive into low-level languages like Java or C. The scripts here are ideas that come to me after tackling a challenge or situation where I feel the need to automate a process or replicate a tool I commonly use. I find this approach both an interesting learning process and a fun time! I hope you find something useful here. Together, we can develop a better world.
+---
 
-As a cybersecurity practitioner, I believe it's imperative to know how to code to understand how things work. You can't defend what you don't understand, and you can't attack what you don't know. Computers run on code, so understanding code will help you understand computers.
+## 🔍 What I Do
 
-If you have a question, comment, or just want to chat, feel free to contact me! I'll be happy to learn and grow along with the community.
+- Detection Engineering
+- Security Operations
+- SIEM Administration & Content Development
+- Security Monitoring & Alert Investigation
+- Incident Response Support
+- Security Tool Implementation
+- Vendor Security Assessments
+- Third-Party Risk Management
+- Infrastructure as Code (Terraform)
 
-## Technologies I like to use
+---
 
-![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Editor-Sublime-lightgrey?style=for-the-badge&logo=sublime-text&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-lightgrey?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 Current Focus
 
-## I also make music
+I'm currently investing most of my learning time in:
 
-[![](https://img.shields.io/badge/Music-Soundcloud-lightgrey?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://soundcloud.com/alexmattymusic)
+- Security Engineering
+- Detection Engineering
+- Infrastructure as Code
+- Python Automation
+- Linux
+- Cloud Security
+- Security Operations Maturity
+
+---
+
+## 🛠 Technologies & Domains
+
+### Security Operations
+
+- Security Monitoring
+- Alert Triage & Investigation
+- Incident Response
+- Detection Engineering
+- Threat Detection
+- Security Operations Center (SOC) Processes
+
+### Security Platforms
+
+- Security Information & Event Management (SIEM)
+- Endpoint Detection & Response (EDR)
+- Identity & Access Management (IAM)
+- Identity as a Service (IDaaS)
+- Email Security
+- Data Loss Prevention (DLP)
+
+### Infrastructure & Operations
+
+- Infrastructure as Code (Terraform)
+- Git
+- GitHub
+- Agile Project Management
+- Technical Documentation
+
+### Operating Systems
+
+- Linux
+- macOS
+- Windows
+
+### Scripting & Automation
+
+- Bash
+- Python
+
+---
+
+## 📂 Featured Projects
+
+This profile contains projects related to:
+
+- Security tooling
+- Linux administration
+- Bash automation
+- Python scripting
+- Privacy and security enhancements
+- Workflow optimization
+- Learning and experimentation
+
+As my career evolves toward Security Engineering, future projects will increasingly focus on:
+
+- Detection Engineering
+- Security Automation
+- Infrastructure as Code
+- Security Operations Tooling
+
+---
+
+## 🎯 Beyond Security
+
+A few things I enjoy outside of my day-to-day work:
+
+- Linux and open-source software
+- Building useful scripts and tools
+- Exploring AI and automation workflows
+- Writing about technology and cybersecurity
+- Learning new technical skills
+- Music production
+- Solving interesting problems just for the challenge
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I enjoy documenting lessons learned, technical discoveries, and cybersecurity topics.
+
+🌐 Website: https://alexmatty.com
+
+📚 Medium: https://medium.com/@alexmatty
+
+---
+
+## 🎓 Certifications
+
+- CompTIA CySA+
+- CompTIA Security+
+- AWS Certified Cloud Practitioner
+- eLearnSecurity Junior Penetration Tester (eJPT)
+
+Currently expanding my knowledge in cloud security, automation, and security engineering.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Matty-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alejandro-matty)
+[![Website](https://img.shields.io/badge/Website-alexmatty.com-black?style=for-the-badge&logo=firefox-browser)](https://alexmatty.com)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@alexmatty)
+[![GitHub](https://img.shields.io/badge/GitHub-alex--matty-black?style=for-the-badge&logo=github)](https://github.com/alex-matty)
